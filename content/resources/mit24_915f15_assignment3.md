@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b2b7132-f2d9-ce21-bce9-83271f8be53e
 resourcetype: Document
 title: Liprounding Assignment
 uid: ff98482b-e53c-fa8a-08b2-e39b4826d6cd

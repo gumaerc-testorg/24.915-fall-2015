@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b2b7132-f2d9-ce21-bce9-83271f8be53e
 resourcetype: Document
 title: 24.915 Linguistic Phonetics Write up on affricate voicing experiment
 uid: 354b2aa2-03d3-f014-3072-7c84a616e52c

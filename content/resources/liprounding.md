@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b2b7132-f2d9-ce21-bce9-83271f8be53e
 resourcetype: Other
 title: liprounding.wav
 uid: 37e98ad2-5cb1-5569-b2e9-2f8cde589e04

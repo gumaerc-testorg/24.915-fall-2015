@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b2b7132-f2d9-ce21-bce9-83271f8be53e
 resourcetype: Document
 title: 24.915 Linguistic Phonetics Mandarin VOT Assignment part 2
 uid: b38f0216-9e45-5a00-fb1c-04985a65f3ac

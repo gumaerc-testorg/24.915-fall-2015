@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b2b7132-f2d9-ce21-bce9-83271f8be53e
 resourcetype: Other
 title: affricate_data_dist.xlsx
 uid: 18b130e8-4665-643a-9341-fd075c2e7936

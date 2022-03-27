@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b2b7132-f2d9-ce21-bce9-83271f8be53e
 resourcetype: Document
 title: 24.915 Linguistic Phonetics Basic Acoustics
 uid: 615deb35-0792-5ca3-ca10-8a8030b7c069

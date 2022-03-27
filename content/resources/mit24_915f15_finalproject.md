@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b2b7132-f2d9-ce21-bce9-83271f8be53e
 resourcetype: Document
 title: 24.915 Linguistic Phonetics Final Project
 uid: 66399021-a436-7f55-b37c-e3edaff91427
