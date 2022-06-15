@@ -1,31 +1,37 @@
 ---
 content_type: page
+description: This section contains PDF links to all assignments and their corresponding
+  supplemental audio files and Excel spreadsheets.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 3b2b7132-f2d9-ce21-bce9-83271f8be53e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Assignment 1
 ------------
 
-[Basic Acoustics (PDF)]({{< baseurl >}}/resources/mit24_915f15_assignment1)
+{{% resource_link 615deb35-0792-5ca3-ca10-8a8030b7c069 "Basic Acoustics (PDF)" %}}
 
 Assignments 2 and 3, Mandarin VOT Assigment
 -------------------------------------------
 
-[Mandarin VOT Assignment, part 1 (PDF)]({{< baseurl >}}/resources/mit24_915f15_assignment2_1)  
-[Mandarin Supplement (AIFF - 5.6MB)]({{< baseurl >}}/resources/mandarin)
+{{% resource_link c28d74d4-fd39-8822-c7d5-058ca9b30e23 "Mandarin VOT Assignment, part 1 (PDF)" %}}  
+{{% resource_link 0910b256-7324-5fed-7047-80593dce87e9 "Mandarin Supplement (AIFF - 5.6MB)" %}}
 
 For part two of the assignment, write up a discussion of aspiration in Mandarin affricates, answering the questions under 2 in the previous Mandarin VOT assignment.
 
 Assignment 4, Lip Rounding
 --------------------------
 
-[Modeling the acoustic effects of lip rounding (PDF)]({{< baseurl >}}/resources/mit24_915f15_assignment3)
+{{% resource_link ff98482b-e53c-fa8a-08b2-e39b4826d6cd "Modeling the acoustic effects of lip rounding (PDF)" %}}
 
-[Liprounding Supplement (WAV)]({{< baseurl >}}/resources/liprounding)
+{{% resource_link 37e98ad2-5cb1-5569-b2e9-2f8cde589e04 "Liprounding Supplement (WAV)" %}}
 
 Assignment 3, Acoustics
 -----------------------
@@ -37,19 +43,19 @@ Assignment 3, Acoustics
 Assignment 4, Acoustics
 -----------------------
 
-[Acoustics assignment 4 (PDF)]({{< baseurl >}}/resources/mit24_915f15_assignment5)
+{{% resource_link 75280579-e48f-b8a9-1755-13e45d9b5e0b "Acoustics assignment 4 (PDF)" %}}
 
 Assignment 5, Affricate Voicing Experiment
 ------------------------------------------
 
-[Affricate Voicing Experiment (PDF)]({{< baseurl >}}/resources/mit24_915f15_assignment6)
+{{% resource_link 2f6b25b7-adcc-98a6-ce12-beae4a50dcb3 "Affricate Voicing Experiment (PDF)" %}}
 
 Assignment 6, Writeup
 ---------------------
 
-[Write up on affricate voicing experiment (PDF - 1.1MB)]({{< baseurl >}}/resources/mit24_915f15_assignment7)
+{{% resource_link 354b2aa2-03d3-f014-3072-7c84a616e52c "Write up on affricate voicing experiment (PDF - 1.1MB)" %}}
 
-[Supplement Data - Excel spreadsheet Statistical analyses (XLSX)]({{< baseurl >}}/resources/affricate_data_dist)
+{{% resource_link 18b130e8-4665-643a-9341-fd075c2e7936 "Supplement Data - Excel spreadsheet Statistical analyses (XLSX)" %}}
 
 Final Project
 -------------

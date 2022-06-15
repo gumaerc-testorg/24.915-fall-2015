@@ -1,10 +1,17 @@
 ---
 content_type: page
+description: This section contains citations for textbooks and peer reviewed literature
+  used in the course, as well as a table indicating which readings to do for each
+  session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 3e5754bd-529f-ff20-4b37-86204a884019
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Textbook
