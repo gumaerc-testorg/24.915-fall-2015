@@ -5,6 +5,7 @@ file: /courses/24-915-linguistic-phonetics-fall-2015/ff98482be53cfa8a08b2e39b482
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Liprounding acoustics assignment for F15 24.915
-

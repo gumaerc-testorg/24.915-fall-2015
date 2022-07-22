@@ -6,6 +6,7 @@ file: /courses/24-915-linguistic-phonetics-fall-2015/18b130e84665643a9341fd075c2
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This excel file contains the information regarding data - excel spreadsheet statistical analyses.
-

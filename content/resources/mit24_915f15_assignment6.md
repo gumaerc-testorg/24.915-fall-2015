@@ -5,6 +5,7 @@ file: /courses/24-915-linguistic-phonetics-fall-2015/2f6b25b7adcc98a6ce12beae4a5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding the Affricate Voicing Experiment.
-

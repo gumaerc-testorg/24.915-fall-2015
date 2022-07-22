@@ -5,6 +5,7 @@ file: /courses/24-915-linguistic-phonetics-fall-2015/75280579e48fb8a9175513e45d9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Acoustics assignment 4 for F15 24.915
-

@@ -5,6 +5,7 @@ file: /courses/24-915-linguistic-phonetics-fall-2015/37e98ad25cb15569b2e92f8cde5
 file_type: audio/x-wav
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding liprounding.
-

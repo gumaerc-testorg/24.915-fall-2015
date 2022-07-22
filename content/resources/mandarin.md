@@ -5,6 +5,7 @@ file: /courses/24-915-linguistic-phonetics-fall-2015/0910b25673245fed704780593dc
 file_type: audio/x-aiff
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding mandarin.
-

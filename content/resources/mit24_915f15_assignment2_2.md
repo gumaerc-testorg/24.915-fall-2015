@@ -6,6 +6,7 @@ file: /courses/24-915-linguistic-phonetics-fall-2015/b38f02169e455a00fb1c04985a6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding the Mandarin VOT Assignment part 2.
-
