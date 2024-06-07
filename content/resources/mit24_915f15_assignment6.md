@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding the Affricate Voicing Experiment.
 file: /courses/24-915-linguistic-phonetics-fall-2015/2f6b25b7adcc98a6ce12beae4a50dcb3_MIT24_915F15_Assignment6.pdf
+file_size: 573743
 file_type: application/pdf
 learning_resource_types:
 - Assignments
