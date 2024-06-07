@@ -17,14 +17,14 @@ video_metadata:
 Textbook
 --------
 
-\[Johnson\] = Johnson, Keith. _Acoustic and Auditory Phonetics_. 3rd ed. Wiley-Blackwell, 2011. ISBN: 9781405194662. \[Preview with {{% resource_link "e7fc995f-079a-49bc-8fbc-b307777bc61e" "Google Books" %}}\]
+\[Johnson\] = Johnson, Keith. _Acoustic and Auditory Phonetics_. 3rd ed. Wiley-Blackwell, 2011. ISBN: 9781405194662. \[Preview with [Google Books](http://books.google.com/books?id=sKOUKJXbmYMC&pg=PAfrontcover)\]
 
 Supplementary Readings
 ----------------------
 
 Ladefoged, Peter. _Elements of Acoustic Phonetics_. 2nd ed. University of Chicago Press, 1995. ISBN: 9780226467641.
 
-{{% resource_link "c1dc525e-e0cc-462a-81dd-5c09b0ddc32d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stevens, Kenneth N. _Acoustic Phonetics_. MIT Press, 1999. ISBN: 9780262194044.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194044) Stevens, Kenneth N. _Acoustic Phonetics_. MIT Press, 1999. ISBN: 9780262194044.
 
 Ladefoged, Peter. _A Course in Phonetics._ 5th ed. Cengage Learning, 2005. ISBN: 9781413006889.
 
@@ -71,7 +71,7 @@ Optional: Ladefoged, Peter. Chapter 1 in _Vowels and Consonants: An Introduction
 
 Keating, Patricia. "Universal Phonetics and The Organization of Grammars." In _Phonetic Linguistics: Essays in Honor of Peter Ladefoged_. Edited by Victoria Fromkin. Academic Press, 1985, pp. 115–32. ISBN: 9780122689901.
 
-Flemming, Edward. "{{% resource_link "c7e751c3-d71e-4960-a1c3-b971ff163ac2" "Scalar and Categorical Phenomina in a Unified Model of Phonetics and Phonology" %}}." _Phonology_ 18, no. 1 (2000).
+Flemming, Edward. "[Scalar and Categorical Phenomina in a Unified Model of Phonetics and Phonology](https://www.researchgate.net/publication/2437637_Scalar_and_Categorical_Phenomena_in_a_Unified_Model_of_Phonetics_and_Phonology)." _Phonology_ 18, no. 1 (2000).
 
 
 {{< tdclose >}}
@@ -109,7 +109,7 @@ Ladefoged, Peter. _Elements of Acoustic Phonetics_. 2nd ed. University of Chicag
 7: Theory of adaptive dispersion
 {{< tdclose >}}
 {{< tdopen >}}
-Liljencrants, Johan, and Bjorn Lindblom. "{{% resource_link "e2974ff6-ed26-44fb-8fd6-937ce7f66363" "Numerical Stimulation of Vowel Quality Systems" %}}." _Language_ 48, no. 4 (1972): 839–62.
+Liljencrants, Johan, and Bjorn Lindblom. "[Numerical Stimulation of Vowel Quality Systems](http://www.jstor.org/stable/411991)." _Language_ 48, no. 4 (1972): 839–62.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +131,7 @@ Liljencrants, Johan, and Bjorn Lindblom. "{{% resource_link "e2974ff6-ed26-44fb-
 
 \[Johnson\] Chapter 5.
 
-Fujimura, Osamu. "{{% resource_link "fe5805a0-91bd-42bc-823c-a8b9f103a1e7" "Perception of Stop Consonants with Conflicting Transitional Cues: A Cross-Linguistic Study" %}}." _Language and Speech_ 21, no. 4 (1978): 337–46.
+Fujimura, Osamu. "[Perception of Stop Consonants with Conflicting Transitional Cues: A Cross-Linguistic Study](http://journals.sagepub.com/doi/abs/10.1177/002383097802100408)." _Language and Speech_ 21, no. 4 (1978): 337–46.
 
 
 {{< tdclose >}}
@@ -171,9 +171,9 @@ No readings
 {{< tdopen >}}
 
 
-Keating, Patricia. "The Window Model of Coarticulation: Articulatory Evidence." In _Papers in Laboratory Phonology: Between the Grammar and Physics of Speech_. Edited by John Kingston and Mary E. Beckman. Cambridge University Press, 1990. ISBN: 9780521368087. \[Preview with {{% resource_link "a2920865-7e13-4d36-866c-625c2792a291" "Google Books" %}}\]
+Keating, Patricia. "The Window Model of Coarticulation: Articulatory Evidence." In _Papers in Laboratory Phonology: Between the Grammar and Physics of Speech_. Edited by John Kingston and Mary E. Beckman. Cambridge University Press, 1990. ISBN: 9780521368087. \[Preview with [Google Books](http://books.google.com/books?id=bDbnZsYyAncC&pg=PA451=onepage)\]
 
-Browman, Catherine P., and Joseph Leonard Goldstein. "Tiers in Articulatory Phonology, with Some Implications for Casual Speech." In _Papers in Laboratory Phonology: Between the Grammar and Physics of Speech_. Edited by John Kingston and Mary E. Beckmen. Cambridge University Press, 1990. ISBN: 9780521368087. \[Preview with {{% resource_link "9826fee4-83a7-4876-bf94-6d3aa64a40f9" "Google Books" %}}\]
+Browman, Catherine P., and Joseph Leonard Goldstein. "Tiers in Articulatory Phonology, with Some Implications for Casual Speech." In _Papers in Laboratory Phonology: Between the Grammar and Physics of Speech_. Edited by John Kingston and Mary E. Beckmen. Cambridge University Press, 1990. ISBN: 9780521368087. \[Preview with [Google Books](http://books.google.com/books?id=bDbnZsYyAncC&pg=PA341=onepage)\]
 
 
 {{< tdclose >}}
@@ -193,7 +193,7 @@ No readings
 15: Targets in speech production
 {{< tdclose >}}
 {{< tdopen >}}
-Villacorta, Vergilio M., Joseph S. Perkell, and Frank H. Guenther. "{{% resource_link "2b599ab7-8d30-4240-a7d9-e6bbb5b7fd9a" "Sensorimotor Adaptation to Feedback Perturbations of Vowel Acoustics and its Relation to Perception" %}}." _The Journal of the Acoustical Society of America_ 122, no. 4 (2007): 2306.
+Villacorta, Vergilio M., Joseph S. Perkell, and Frank H. Guenther. "[Sensorimotor Adaptation to Feedback Perturbations of Vowel Acoustics and its Relation to Perception](https://doi.org/10.1121/1.2773966)." _The Journal of the Acoustical Society of America_ 122, no. 4 (2007): 2306.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +204,7 @@ Villacorta, Vergilio M., Joseph S. Perkell, and Frank H. Guenther. "{{% resource
 {{< tdopen >}}
 
 
-Mitterer, Holger. "{{% resource_link "5c6ab067-db8f-458a-b82c-9c746567cfea" "On the Causes of Compensation for Coarticulation: Evidence for Phonological Mediation" %}}." _Perception & Psychophysics_ 68, no. 7 (2006): 1227–40.
+Mitterer, Holger. "[On the Causes of Compensation for Coarticulation: Evidence for Phonological Mediation](https://doi.org/10.3758/BF03193723)." _Perception & Psychophysics_ 68, no. 7 (2006): 1227–40.
 
 
 {{< tdclose >}}
