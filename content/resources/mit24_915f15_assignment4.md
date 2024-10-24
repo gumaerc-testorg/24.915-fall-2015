@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding the Acoustics assignment
   3.
-file: /courses/24-915-linguistic-phonetics-fall-2015/a513dddc02357f5826b88f81c35bcb4d_MIT24_915F15_Assignment4.pdf
+file: /ol-ocw-studio-app/courses/24-915-linguistic-phonetics-fall-2015/a513dddc02357f5826b88f81c35bcb4d_MIT24_915F15_Assignment4.pdf
 file_size: 94339
 file_type: application/pdf
 learning_resource_types:
