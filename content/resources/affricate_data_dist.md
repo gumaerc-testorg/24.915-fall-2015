@@ -2,7 +2,7 @@
 content_type: resource
 description: This excel file contains the information regarding data - excel spreadsheet
   statistical analyses.
-file: /ol-ocw-studio-app/courses/24-915-linguistic-phonetics-fall-2015/18b130e84665643a9341fd075c2e7936_affricate_data_dist.xlsx
+file: /courses/24-915-linguistic-phonetics-fall-2015/18b130e84665643a9341fd075c2e7936_affricate_data_dist.xlsx
 file_size: 93035
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:

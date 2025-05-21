@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding the Basic Acoustics.
-file: /ol-ocw-studio-app/courses/24-915-linguistic-phonetics-fall-2015/615deb3507925ca3ca108a8030b7c069_MIT24_915F15_Assignment1.pdf
+file: /courses/24-915-linguistic-phonetics-fall-2015/615deb3507925ca3ca108a8030b7c069_MIT24_915F15_Assignment1.pdf
 file_size: 115775
 file_type: application/pdf
 learning_resource_types:
