@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding liprounding.
-file: /ol-ocw-studio-app/courses/24-915-linguistic-phonetics-fall-2015/37e98ad25cb15569b2e92f8cde589e04_liprounding.wav
+file: /courses/24-915-linguistic-phonetics-fall-2015/37e98ad25cb15569b2e92f8cde589e04_liprounding.wav
 file_size: 386342
 file_type: audio/x-wav
 learning_resource_types:

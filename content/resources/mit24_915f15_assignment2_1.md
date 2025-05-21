@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding mandarin VOT assignment
   part 1.
-file: /ol-ocw-studio-app/courses/24-915-linguistic-phonetics-fall-2015/c28d74d4fd398822c7d5058ca9b30e23_MIT24_915F15_Assignment2_1.pdf
+file: /courses/24-915-linguistic-phonetics-fall-2015/c28d74d4fd398822c7d5058ca9b30e23_MIT24_915F15_Assignment2_1.pdf
 file_size: 589012
 file_type: application/pdf
 learning_resource_types:
