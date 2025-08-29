@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding mandarin.
-file: /courses/24-915-linguistic-phonetics-fall-2015/0910b25673245fed704780593dce87e9_mandarin.aiff
+file: /ol-ocw-studio-app/courses/24-915-linguistic-phonetics-fall-2015/0910b25673245fed704780593dce87e9_mandarin.aiff
 file_size: 5859404
 file_type: audio/x-aiff
 learning_resource_types:
